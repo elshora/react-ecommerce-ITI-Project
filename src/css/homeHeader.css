@@ -1,0 +1,6 @@
+.home-header {
+  background-color: rgb(251, 235, 181);
+  height: calc(100vh - 59px);
+  display: flex;
+  align-items: center;
+}
